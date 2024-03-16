@@ -21,9 +21,9 @@ function HW() {
 
     function alertFunc () {
         alert (`
-        Name: ${setUserName}
-        Email: ${setUserEmail}
-        Message: ${setUserMessage}
+        Name: ${userName}
+        Email: ${userEmail}
+        Message: ${userMessage}
         `)
     }
 
