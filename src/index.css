@@ -25,6 +25,7 @@ input, textarea {
   width: 40%;
   border-radius: 5px;
   text-align: center;
+  border: solid 1px rgb(68, 180, 143);
 }
 button {
   padding: 5px;
@@ -32,6 +33,7 @@ button {
   font-weight: bold;
   color: antiquewhite;
   background-color: rgb(68, 180, 143);
+  border-color: rgb(68, 180, 143);
 }
 
 

@@ -10,4 +10,5 @@ const InputField = ({ label, type, value, onChange, required }) => {
     );
 }
  
+
 export default InputField;
