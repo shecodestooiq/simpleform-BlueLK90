@@ -11,6 +11,7 @@
   border: solid 2px rgb(68, 180, 143);
   border-top-left-radius: 30px;
   border-bottom-right-radius: 30px;
+  background-color: aliceblue;
 }
 label {
   font-weight: bold;
